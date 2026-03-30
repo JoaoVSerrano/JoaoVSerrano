@@ -6,7 +6,7 @@
 I build **scalable products**, **SaaS platforms**, and **web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-I am always aiming to improve my abilities and love study and apply what I learn in real projects
+I am always studying to improve my abilities and apply what I learn in real projects
 
 ---
 
