@@ -64,10 +64,9 @@ I am always studying to improve my abilities and apply what I learn in real proj
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoVSerrano&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVSerrano&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoVSerrano&show_icons=true&theme=tokyonight&count_private=true" alt="João's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVSerrano&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🚀 Philosophy
