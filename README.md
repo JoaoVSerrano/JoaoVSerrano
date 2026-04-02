@@ -23,6 +23,7 @@ I am always studying to improve my abilities and apply what I learn in real proj
     <img src="https://img.shields.io/badge/Instagram-@jvserrano023-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://portifolio-seven-indol-20.vercel.app/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="Portfolio" width="40" height="40">
   </a>
 
 ---
