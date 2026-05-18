@@ -22,7 +22,7 @@ I am always studying to improve my abilities and apply what I learn in real proj
     <img src="https://img.shields.io/badge/LinkedIn-João Victor Serrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jvserrano023/">
-    <img src="https://img.shields.io/badge/Instagram-@jvserrano023-E4405F?style=for-the-badge&logo=instagram&logoColor=000" />
+    <img src="https://img.shields.io/badge/Instagram-@jvserrano023-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I am always studying to improve my abilities and apply what I learn in real proj
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-FFD43B?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-B52E31?style=for-the-badge&logo=angular&logoColor=000)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
