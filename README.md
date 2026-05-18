@@ -22,7 +22,7 @@ I am always studying to improve my abilities and apply what I learn in real proj
     <img src="https://img.shields.io/badge/LinkedIn-João Victor Serrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jvserrano023/">
-    <img src="https://img.shields.io/badge/Instagram-@jvserrano023-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@jvserrano023-E4405F?style=for-the-badge&logo=instagram&logoColor=000" />
   </a>
 </p>
 
