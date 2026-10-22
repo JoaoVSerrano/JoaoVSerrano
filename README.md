@@ -18,7 +18,7 @@ I am always studying to improve my abilities and apply what I learn in real proj
   <a href="https://github.com/JoaoVSerrano">
     <img src="https://img.shields.io/badge/GitHub-JoaoVSerrano-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/joão-victor-serrano-mk03">
+  <a href="https://www.linkedin.com/in/joao-victor-serrano-mk03">
     <img src="https://img.shields.io/badge/LinkedIn-João Victor Serrano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jvserrano023/">
